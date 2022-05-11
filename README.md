@@ -1,10 +1,18 @@
-### Hello! I'm Jesse. 👋
+### <div align="center" style='padding: 1rem 0'>👋 Hello! I'm Jesse.</div>
 
-I am a React.js frontend developer from Pittsburgh Pennsylvania.
+<p align="center">I am a React.js frontend developer from Pittsburgh Pennsylvania. For more about me, check out my website: <a href="https://www.jesselind.com/">jesselind.com</a></p>
 
-<hr>
+<div align="center" width="100%" style="display: flex; justify-content: center; padding-top: 1rem;">
+    <a href='https://reactjs.org/'><img align="left" width="30px" alt="Linkedin" src="./linkedin.svg"></a>
+    <a href='https://reactjs.org/'><img align="left" width="30px" alt="Instagram" src="./instagram.svg"></a>
+    <a href='https://reactjs.org/'><img align="left" width="30px" alt="Twitter" src="./twitter.svg"></a>
+</div>
 
-### Languages And Tools
+<br>
+
+### 📘 Languages And Tools
+
+<hr style="height: 2px; padding: 0; margin-top: 0;">
 
 [<img align="left" width="26px" alt="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">](https://reactjs.org/)
 [<img align="left" width="26px" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">](https://redux.js.org/)
