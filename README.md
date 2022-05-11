@@ -3,6 +3,7 @@
 I am a React.js frontend developer from Pittsburgh Pennsylvania.
 
 <br>
+<hr>
 
 ### Languages And Tools
 
