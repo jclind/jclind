@@ -38,3 +38,14 @@
 [<img align="left" width="26px" alt="Mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">](https://www.mongodb.com/)
 [<img align="left" width="26px" alt="Graphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">](https://graphql.org/)
 [<img align="left" width="26px" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">](https://www.npmjs.com/)
+
+
+<br>
+<br>
+
+### 📊 Stats
+
+<hr style="height: 2px; padding: 0; margin-top: 0;">
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jclind&show_icons=true&hide_border=false&title_color=842488&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=842488" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclind&show_icons=true&hide_border=false&title_color=842488&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=842488" />
+
