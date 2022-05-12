@@ -1,14 +1,24 @@
 ### <div align="center" style='padding: 1rem 0'>👋 Hello! I'm Jesse.</div>
 
+<br>
+
 <p align="center">I am a React.js frontend developer from Pittsburgh Pennsylvania. For more about me, check out my website: <a href="https://www.jesselind.com/">jesselind.com</a></p>
 
-<div align="center" style="display: flex; justify-content: center; padding-top: 1rem; gap: 1rem;">
-    <a href='https://reactjs.org/'><img width="30px" fill="red" alt="Linkedin" src="./linkedin.svg"></a>
-    <a href='https://reactjs.org/'><img width="30px" fill="red" alt="Instagram" src="./instagram.svg"></a>
-    <a href='https://reactjs.org/'><img width="30px" fill="red" alt="Twitter" src="./twitter.svg"></a>
-</div>
-
+<!-- <p align="center">
+    <a href='https://reactjs.org/'><img width="30px" height="30px" padding="1rem" alt="Linkedin" src="./linkedin.png"></a>
+    <a href='https://reactjs.org/'><img width="30px" height="30px" alt="Instagram" src="./instagram.png"></a>
+    <a href='https://reactjs.org/'><img width="30px" height="30px" alt="Twitter" src="./twitter.png"></a>
+</p> -->
 <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jesseclind/"><img height="32px" alt="Linkedin" title="Linkedin" src="./linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/jclind02/"><img height="32px" alt="Instagram" title="Instagram" src="./instagram.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/jclind02"><img height="32px" alt="Twitter" title="Twitter" src="./twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 
 ### 📘 Languages And Tools
 
